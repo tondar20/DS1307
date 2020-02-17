@@ -1,0 +1,10 @@
+DS1307		KEYWORD1
+begin       KEYWORD2
+startSqw1hz     KEYWORD2
+stopSqw1hz      KEYWORD2
+setPartTime     KEYWORD2
+getPartTime     KEYWORD2
+setTime     KEYWORD2
+getTime     KEYWORD2
+readRam     KEYWORD2
+writeRam        KEYWORD2
